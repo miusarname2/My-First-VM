@@ -1,2 +1,2 @@
 # My first VM
-This is an example where I am creating a virtual machine, very basic, with the goal of using it in upcoming personal projects.
+This is an example of the creation of a very basic virtual machine, with the l3c architecture, and using RISC.
